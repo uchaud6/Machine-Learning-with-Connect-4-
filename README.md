@@ -1,5 +1,9 @@
 # Steps Toward Creating a Connect 4 AI
-After trying to find a machine learning algorithm to simulate and train from games of
+![randomGameExample](https://user-images.githubusercontent.com/88683496/208569961-1ce10840-df5f-4fc1-8885-3dd8fb739615.png)
+![parameterizedBoard](https://user-images.githubusercontent.com/88683496/208569966-774c5c73-2915-4aeb-b9e3-33a287d3dc8f.png)
+
+
+  After trying to find a machine learning algorithm to simulate and train from games of
 Connect 4, I found the most success through a reinforcement learning technique called,
 Q-learning. Before creating a Python program that uses Q-learning, I first wrote a starter
 program that would contain the functions needed to play a game for Connect 4 such as a game
